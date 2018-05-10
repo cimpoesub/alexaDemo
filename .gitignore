@@ -1,0 +1,16 @@
+# Swap files
+*.swp
+
+# Deployable package zip
+index.zip
+
+# Dependency directories
+src/node_modules/
+# Demo directory
+prepared/
+
+# Optional npm cache directory
+.npm
+
+# dotenv environment variables file
+.env
